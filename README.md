@@ -3,7 +3,7 @@
 **`Cybersecurity/ Pentester`**
 <br/>
 <br/>
-Meu nome é Jhonata e tenho 19 anos, Atualmente estou cursando Ciência Da Computação pela UNICSUL. Sou um grande admirador da área de tecnologia e por isso estou
+Meu nome é Jhonata e tenho 19 anos. Atualmente estou cursando Ciência Da Computação pela UNICSUL. Sou um grande admirador da área de tecnologia e por isso estou
 sempre buscando mais conhecimento sobre o mercado. Igualmente amo a área de Cibersegurança/Pentester e estou em  estudando cada vez mais.
 
 
